@@ -9,6 +9,7 @@ Thank you for taking your time to do our technical test. It consists of two part
 ## Coding test
 
 Fork this repository and follow instructions in the project's files. Make a pull request when you're done.
+Please check our [guidelines](https://github.com/inframine/c-sharp-style-guide) beforehand.
 
 ## Technical questions
 
